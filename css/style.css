@@ -45,3 +45,12 @@
       padding: 15px;
       font-family: 'Raleway', sans-serif;
     }
+
+    .bouton
+    {
+        display: flex;
+    }
+
+    * {
+        font-family: 'Raleway', sans-serif;
+    }
